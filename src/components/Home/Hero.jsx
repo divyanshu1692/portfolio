@@ -14,7 +14,7 @@ const Hero = () => {
                 </div>
                 <div className={styles.hero_button}>
                     <a href="mailto:divyanshubisht169@gmail.com">{getInTouchIcon} Get in Touch</a>
-                    <a href="https://drive.google.com/file/d/14_usOKmV_AcqvwQ-6AUlUAzy9W6ILgu3/view?usp=drivesdk" rel="noreferrer" target="_blank">{getResumeIcon} View Resume</a>
+                    <a href="https://drive.google.com/file/d/1MjlIFTOT6tvdtpyqB5zYv93bOEERKdf_/view" rel="noreferrer" target="_blank">{getResumeIcon} View Resume</a>
                 </div>
             </div>
             <div className={styles.hero_column}>

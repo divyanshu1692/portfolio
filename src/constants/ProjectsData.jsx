@@ -24,7 +24,7 @@ export const projectData = [{
     "image": SPORTIFI,
     "date": "",
     "title": "Sportifi",
-    "tech": "React.js, Node.js",
+    "tech": "Next.js, Node.js",
     "description": "Developed Sportifi, a comprehensive event management system designed to streamline the planning, organization, and execution of events. The platform includes features such as event scheduling, ticketing and participant registration etc",
     "link": "http://sportifi.in/all"
 }, {
